@@ -1,0 +1,2 @@
+F:\Computer Graphics\BoxShooter-Unity-master\obj\Debug\Assembly-CSharp-firstpass.csprojResolveAssemblyReference.cache
+F:\Computer Graphics\BoxShooter-Unity-master\obj\Debug\Assembly-CSharp-firstpass.csproj.CoreCompileInputs.cache
