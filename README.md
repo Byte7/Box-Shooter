@@ -1,6 +1,6 @@
 # Box-Shooter
 A simple shooting game made using Unity Game Engine
-Instructions for playing
+##Instructions for playing
   - Use A,W,S,D keys for movement as left,forward,backward,right respectively
   - Use spacebar for jump
   - Use mouse left-click for shooting lasers
